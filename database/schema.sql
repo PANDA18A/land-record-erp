@@ -5,5 +5,5 @@
 -- ==========================================
 
 CREATE TABLE application (
-    application_id SERIAL PRIMARY KEY
+    applicant_id BIGSERIAL PRIMARY KEY
 );
